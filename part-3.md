@@ -1,0 +1,12 @@
+* https://www.learncpp.com/cpp-tutorial/82-classes-and-class-members/
+* https://www.learncpp.com/cpp-tutorial/83-public-vs-private-access-specifiers/
+* https://www.learncpp.com/cpp-tutorial/84-access-functions-and-encapsulation/
+* https://www.youtube.com/watch?v=6Q0Cff29YwU
+* https://www.youtube.com/watch?v=StlsYRNnWaE
+* https://www.youtube.com/watch?v=ZhTB24eWJ58
+* https://www.youtube.com/watch?v=hB3orHE4IOc
+* https://www.learncpp.com/cpp-tutorial/8-8-the-hidden-this-pointer/
+* https://www.youtube.com/watch?v=70qXSmuqB2I
+* https://www.learncpp.com/cpp-tutorial/810-const-class-objects-and-member-functions/
+* https://www.youtube.com/watch?v=MR37gqFEmFA
+* https://www.learncpp.com/cpp-tutorial/89-class-code-and-header-files/
